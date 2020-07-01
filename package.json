@@ -1,0 +1,26 @@
+{
+  "name": "DragonBot-Mini",
+  "version": "1.0.0",
+  "description": "A mini verification bot for Drexel University Discord Servers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@keyv/sqlite": "2.0.2",
+    "@sendgrid/mail": "^7.2.1",
+    "discord.js": "^12.2.0",
+    "keyv": "^4.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/dotKevinWong/DragonBot-Mini"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "discord"
+  ]
+}

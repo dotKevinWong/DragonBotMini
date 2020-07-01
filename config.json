@@ -1,0 +1,19 @@
+{
+    "DISCORD_API_KEY": "",
+    "SERVER_ID": "",
+    "PREFIX": "!",
+    "VERIFICATION_CHANNEL_ID": "",
+    "VERIFICATION_LOG_CHANNEL_ID": "",
+    "ROLE_NAME": "Verified",
+    "EMAIL_API_KEY": "",
+    "EMAIL_REGEX": "[^!]*@example.com",
+    "FROM_EMAIL": "noreply@example.com",
+    "EMAIL_SUBJECT": "",
+    "DM_COMMAND_ARRAY": [
+        "email",
+        "code"
+    ],
+    "SERVER_COMMAND_ARRAY": [
+        "verify"
+    ]
+}
