@@ -1,4 +1,4 @@
-# DragonBotMini
+# DragonBot Mini
 
 # Info
 
